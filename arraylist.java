@@ -1,5 +1,3 @@
-package Guide;
-
 import java.util.ArrayList;
 
 public class arraylist {

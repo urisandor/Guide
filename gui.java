@@ -1,4 +1,3 @@
-package Guide;
 import javax.swing.JOptionPane;
 
 public class gui {

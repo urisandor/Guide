@@ -1,5 +1,3 @@
-package Guide;
-
 public class arithmetic_expressions {
 
 	public static void main(String[] args) {

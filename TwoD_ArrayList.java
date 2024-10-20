@@ -1,5 +1,3 @@
-package Guide;
-
 import java.util.*;
 
 public class TwoD_ArrayList {
